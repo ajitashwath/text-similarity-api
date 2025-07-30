@@ -1,4 +1,4 @@
-# Text Similarity API - Go + Python Hybrid
+# Text Similarity API
 A text similarity API that combines Go's excellent concurrency and HTTP handling with Python's powerful machine learning capabilities.
 
 ## Architecture
