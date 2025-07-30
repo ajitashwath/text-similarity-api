@@ -1,4 +1,5 @@
-fastapi
-uvicorn[standard]
 sentence-transformers
-torch
+transformers
+numpy
+scikit-learn
+huggingface-hub

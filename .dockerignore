@@ -1,0 +1,25 @@
+# Git and Docker
+.git
+.gitignore
+Dockerfile
+.dockerignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Go build artifacts
+main
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Other
+README.md
